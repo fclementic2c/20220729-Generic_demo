@@ -1,0 +1,4 @@
+[submodule "XanderDeMatteis/purchase-workflow"]
+	path = XanderDeMatteis/purchase-workflow
+	url = git@github.com:XanderDeMatteis/purchase-workflow.git
+	branch = 15.0-mig-purchase_tier_validation
